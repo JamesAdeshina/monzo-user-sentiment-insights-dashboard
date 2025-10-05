@@ -10,9 +10,9 @@
 ---
 
 ## Summary
-
 Transforming 33,500+ Monzo app store reviews (2015–2025) into actionable insights through NLP, Power BI, and BigQuery — empowering Product, UX, and HR teams with real-time customer sentiment and usability intelligence.
 ---
+
 ## Overview
 
 This project transforms over **33,500 Monzo app store reviews (2015–2025)** from the Apple App Store and Google Play Store into a unified **Power BI Insights Dashboard**.  
