@@ -7,10 +7,10 @@
 ---
 🧾 Quick Info & Badges
 <p align="left"> <!-- Core Stack --> <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=power-bi&logoColor=black" alt="Power BI Badge"/> <img src="https://img.shields.io/badge/Google%20BigQuery-Data%20Warehouse-669DF6?logo=google-cloud&logoColor=white" alt="BigQuery Badge"/> <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-ff69b4?logo=ai&logoColor=white" alt="NLP Badge"/> <!-- Tools --> <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white" alt="Pandas Badge"/> <img src="https://img.shields.io/badge/VADER-Lexicon%20Sentiment-orange" alt="VADER Badge"/> <img src="https://img.shields.io/badge/YAKE-Keyphrase%20Extraction-ffcc00" alt="YAKE Badge"/> <img src="https://img.shields.io/badge/KeyBERT-Topic%20Modeling-8A2BE2" alt="KeyBERT Badge"/> <!-- Compliance & Documentation --> <img src="https://img.shields.io/badge/GDPR-Compliant-brightgreen?logo=security&logoColor=white" alt="GDPR Badge"/> <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License Badge"/> <img src="https://img.shields.io/badge/Status-Portfolio%20Project-success" alt="Status Badge"/> </p>
----
+
 
 ## Summary
-Transforming 33,500+ Monzo app store reviews (2015–2025) into actionable insights through NLP, Power BI, and BigQuery — empowering Product, UX, and HR teams with real-time customer sentiment and usability intelligence.
+Transforming 33,500+ Monzo app store reviews (2015–2025) into actionable insights through NLP, Power BI, and BigQuery, empowering Product, UX, and HR teams with real-time customer sentiment and usability intelligence.
 ---
 
 ## Overview
