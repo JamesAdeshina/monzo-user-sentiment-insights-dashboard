@@ -1,7 +1,7 @@
 # Monzo User Sentiment & Feature Insights Dashboard
 
-**Author:** James O. Adeshina  
-**Date:** October 2025  
+**Author:** James Adeshina  
+**Date:** November 2025  
 **Version:** 1.4  
 
 ---
