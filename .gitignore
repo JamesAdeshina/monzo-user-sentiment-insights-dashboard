@@ -1,0 +1,65 @@
+# ===================================
+# Project Data Files
+# ===================================
+*.csv
+*.parquet
+*.gz
+*.zip
+*.xlsx
+*.xls
+*.xml
+
+data/raw/
+data/processed/
+data/warehouse/
+data/audit/
+
+# ===================================
+# Credentials / Secrets
+# ===================================
+credentials/
+*.json
+*.key
+*.pem
+*.env
+*.ini
+token_*
+service_account_*
+config_secrets_*
+
+# ===================================
+# Jupyter / Python Cache
+# ===================================
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===================================
+# IDE & Editor Files
+# ===================================
+.idea/
+.vscode/
+.shelf/
+workspace.xml
+*.iml
+
+# ===================================
+# Power BI / BI Temporary Files
+# ===================================
+*.pbix.tmp
+*.pbit.tmp
+~$*
+
+# ===================================
+# Logs and Temporary Files
+# ===================================
+*.log
+*.tmp
+
+# ===================================
+# OS-Specific
+# ===================================
+.DS_Store
+Thumbs.db
