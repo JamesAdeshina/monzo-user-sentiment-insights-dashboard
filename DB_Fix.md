@@ -180,12 +180,3 @@ monzo_reviews_eu	6	✅ Clean
 Schema Type	Star	✅ Normalized
 Fact Table Size	31,625 rows	✅ Correct
 BI Readiness		✅ Ready for Power BI
-🎯 In short:
-
-You fixed a major data duplication issue, normalized your schema, and produced a clean, analytics-ready dataset — the exact format Power BI (and any data warehouse) expects.
-
-Your pipeline now creates:
-
-💾 A single FactReviews table (one row per review)
-🔗 Linked to five clean, deduplicated dimension tables
-🧭 Ready for scalable reporting and analytics in Power BI
