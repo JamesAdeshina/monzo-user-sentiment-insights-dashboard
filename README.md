@@ -10,15 +10,15 @@ Quick Info & Badges
 
 
 ## Summary
-Transforming 33,500+ Monzo app store reviews (2015–2025) into actionable insights through NLP, Power BI, and BigQuery, empowering Product, UX, and HR teams with real-time customer sentiment and usability intelligence.
+Transforming 33,500+ Monzo app store reviews (2015-2025) into actionable insights through NLP, Power BI, and BigQuery, empowering Product, UX, and HR teams with real-time customer sentiment and usability intelligence.
 
 ## Overview
 
-This project transforms over **33,500 Monzo app store reviews (2015–2025)** from the Apple App Store and Google Play Store into a unified **Power BI Insights Dashboard**.  
+This project transforms over **33,500 Monzo app store reviews (2015-2025)** from the Apple App Store and Google Play Store into a unified **Power BI Insights Dashboard**.  
 
-By combining **Natural Language Processing (NLP)**, **Google BigQuery**, and **Power BI**, the project converts unstructured customer feedback into actionable intelligence that informs **Product**, **UX Research**, and **HR** teams.  
+By combining **Natural Language Processing (NLP)**, **Google BigQuery**, and **Power BI**, the project converts unstructured customer feedback into actionable intelligence that informs **Product**, and **UX Research** teams.  
 
-It demonstrates end-to-end data capability — from **ETL & NLP** to **data warehousing** and **BI visualization**, while maintaining **GDPR-compliant data practices**.
+It demonstrates end-to-end data capability from **ETL & NLP** to **data warehousing** and **BI visualization**, while maintaining **GDPR-compliant data practices**.
 
 
 ## Project Objectives
@@ -100,10 +100,10 @@ Monzo-Reviews-Dashboard/
 ## Dashboard Overview (Power BI)
 
 ### Dashboard Pages
-1. **Executive Overview** — Sentiment trends, KPIs, and UX Health Score.  
-2. **Platform & Version Analysis** — Compare iOS vs Android performance and release stability.  
-3. **Thematic Deep Dive** — Feature-level feedback visualization with sentiment breakdowns.  
-4. **UX Research Dashboard** — Detailed analysis of usability, navigation, and accessibility metrics.
+1. **Executive Overview:** Sentiment trends, KPIs, and UX Health Score.  
+2. **Platform & Version Analysis:** Compare iOS vs Android performance and release stability.  
+3. **Thematic Deep Dive:** Feature-level feedback visualization with sentiment breakdowns.  
+4. **UX Research Dashboard:** Detailed analysis of usability, navigation, and accessibility metrics.
 
 
 ## Sample Workflow
