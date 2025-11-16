@@ -1,7 +1,7 @@
 # Monzo User Sentiment & Feature Insights Dashboard
 
 **Author:** James Adeshina  
-**Date:** November 2025  
+**Date:** October - November 2025  
 **Version:** 1.4  
 
 
@@ -103,8 +103,7 @@ Monzo-Reviews-Dashboard/
 1. **Executive Overview** — Sentiment trends, KPIs, and UX Health Score.  
 2. **Platform & Version Analysis** — Compare iOS vs Android performance and release stability.  
 3. **Thematic Deep Dive** — Feature-level feedback visualization with sentiment breakdowns.  
-4. **HR & CX Lens** — Support and empathy themes tied to customer experience.  
-5. **UX Research Dashboard** — Detailed analysis of usability, navigation, and accessibility metrics.
+4. **UX Research Dashboard** — Detailed analysis of usability, navigation, and accessibility metrics.
 
 
 ## Sample Workflow
