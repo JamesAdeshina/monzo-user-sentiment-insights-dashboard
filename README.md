@@ -4,14 +4,13 @@
 **Date:** November 2025  
 **Version:** 1.4  
 
----
+
 Quick Info & Badges
 <p align="left"> <!-- Core Stack --> <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=power-bi&logoColor=black" alt="Power BI Badge"/> <img src="https://img.shields.io/badge/Google%20BigQuery-Data%20Warehouse-669DF6?logo=google-cloud&logoColor=white" alt="BigQuery Badge"/> <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-ff69b4?logo=ai&logoColor=white" alt="NLP Badge"/> <!-- Tools --> <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white" alt="Pandas Badge"/> <img src="https://img.shields.io/badge/VADER-Lexicon%20Sentiment-orange" alt="VADER Badge"/> <img src="https://img.shields.io/badge/YAKE-Keyphrase%20Extraction-ffcc00" alt="YAKE Badge"/> <img src="https://img.shields.io/badge/KeyBERT-Topic%20Modeling-8A2BE2" alt="KeyBERT Badge"/> <!-- Compliance & Documentation --> <img src="https://img.shields.io/badge/GDPR-Compliant-brightgreen?logo=security&logoColor=white" alt="GDPR Badge"/> <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License Badge"/> <img src="https://img.shields.io/badge/Status-Portfolio%20Project-success" alt="Status Badge"/> </p>
 
 
 ## Summary
 Transforming 33,500+ Monzo app store reviews (2015–2025) into actionable insights through NLP, Power BI, and BigQuery, empowering Product, UX, and HR teams with real-time customer sentiment and usability intelligence.
----
 
 ## Overview
 
@@ -21,7 +20,6 @@ By combining **Natural Language Processing (NLP)**, **Google BigQuery**, and **P
 
 It demonstrates end-to-end data capability — from **ETL & NLP** to **data warehousing** and **BI visualization**, while maintaining **GDPR-compliant data practices**.
 
----
 
 ## Project Objectives
 
@@ -31,7 +29,6 @@ It demonstrates end-to-end data capability — from **ETL & NLP** to **data ware
 - **Visualize in Power BI**: Build an interactive dashboard to explore sentiment trends, feature feedback, and UX patterns.  
 - **Ensure Data Ethics**: Comply fully with GDPR principles via anonymization and secure storage.
 
----
 
 ## Tech Stack
 
@@ -44,7 +41,6 @@ It demonstrates end-to-end data capability — from **ETL & NLP** to **data ware
 | **Version Control** | GitHub |
 | **File Formats** | CSV, Parquet |
 
----
 
 ## Project Structure
 
@@ -93,8 +89,6 @@ Monzo-Reviews-Dashboard/
 ```
 
 
----
-
 ## Key Insights Delivered
 
 - **Cross-Platform Trends:** Sentiment comparison between iOS and Android users.  
@@ -102,7 +96,6 @@ Monzo-Reviews-Dashboard/
 - **UX Health Metrics:** Sentiment tracking across usability, performance, and accessibility categories.  
 - **Empathy Insights:** Service-related themes informing HR training and customer experience improvement.
 
----
 
 ## Dashboard Overview (Power BI)
 
@@ -113,7 +106,6 @@ Monzo-Reviews-Dashboard/
 4. **HR & CX Lens** — Support and empathy themes tied to customer experience.  
 5. **UX Research Dashboard** — Detailed analysis of usability, navigation, and accessibility metrics.
 
----
 
 ## Sample Workflow
 
